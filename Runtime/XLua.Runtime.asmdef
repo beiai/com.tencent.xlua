@@ -1,0 +1,16 @@
+{
+    "name": "XLua.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:99a5ad68c10e3bf4ea4a20429e529103"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
